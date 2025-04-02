@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
                     location: 'Animadas',
                   ),
                   const TitleSection(
-                    name: 'Descripción',
+                    name: 'Hello World',
                     location:
                         'En esta aplicación podrás ver una lista de películas animadas.',
                   ),
